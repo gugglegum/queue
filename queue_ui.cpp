@@ -1,5 +1,6 @@
 #include <iostream>
-#include <c++/stdexcept>
+#include <stdexcept>
+#include <string>
 #include "queue_ui.h"
 
 using namespace std;
